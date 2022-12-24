@@ -123,7 +123,7 @@ function notiflib:NewOptionNotif(message, callback)
     title_2.Position = UDim2.new(0.0177665073, 0, 0, 0)
     title_2.Size = UDim2.new(0.642312586, -72, -0.16883117, 26)
     title_2.Font = Enum.Font.GothamBlack
-    title_2.Text = "ZEPHYR X"
+    title_2.Text = _G.TEXTHUB
     title_2.TextColor3 = Color3.fromRGB(235, 235, 235)
     title_2.TextSize = 11.000
     title_2.TextXAlignment = Enum.TextXAlignment.Left
